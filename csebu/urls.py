@@ -4,3 +4,4 @@ from csebu import views
 urlpatterns = [
     path('', views.homepage, name="homepage")
 ]
+
